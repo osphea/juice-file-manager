@@ -198,6 +198,6 @@ Other
         Extra()
         
         
-    run=int(input("1.Run again \n2.Exit \nChoose the option number: \n"))
+    run=int(input("1.Run again \n2.Exit \n#:"))
     if run==2:
         exit()
