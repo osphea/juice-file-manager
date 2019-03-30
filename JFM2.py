@@ -144,7 +144,6 @@ Version:
 ''')
 run=1
 while(run==1):     #Running the program again
-    os.system('cls')        #Used to clear the screen after running again the program
     dec=int(input('''
 =======================================
 Juice File Manager 2.5.1
