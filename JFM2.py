@@ -1,3 +1,5 @@
+# JuiceFileManager DahliaOS Edition 
+
 import shutil         #Contains functions for operating files
 import os         #imports the os
 
@@ -123,8 +125,13 @@ def Extra():
     print('''              
 Extras
 =====================================
-Trusted Websites:GitHub
-Gmail/Email: camden.o.b@gmail.com
+Trusted Websites:
+--> GitHub: https://github.com/dahlia-os
+
+Gmail/Email: 
+--> camden.o.b@gmail.com
+--> nmcain@gmail.com
+
 Team Members:
 --> Ender_Night_Lord-chromebook (Owner) (Kernel Dev)
 --> Noah Cain / nmcain (UI Dev)
@@ -132,7 +139,8 @@ Team Members:
 --> Horus (UI Dev) - (App Dev)
 --> Jazilzaim (Kernel Dev)
 
-Version: 2.5.1 REINCARNATION
+Version: 
+--> 2.5.1 REINCARNATION
 ''')
 run=1
 while(run==1):     #Running the program again
@@ -154,9 +162,11 @@ Juice File Manager 2.5.1
 10. Delete A Directory
 11. Open a program
 12. Exit
+
 =======================================
 Other
 =======================================
+
 13. Build Information
 14. Extras
 15. Update (USING TERMINAL)
