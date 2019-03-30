@@ -1,4 +1,4 @@
-# Juice-File-Manager
+# Juice File Manager
 Dahlia Port For The Juice File Manager For Cli
 
 Based On Juice File Manager 2.5 LTS
