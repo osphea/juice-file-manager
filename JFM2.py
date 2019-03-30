@@ -114,7 +114,8 @@ def Openfile():
 
 def Information():
     print('''
-Detailed Build Information
+=====================================
+Detailed Build Information     
 =====================================
 Made On:GNU/LINUX
 Date Created: 30 september 2017 / 30 march 2019
@@ -123,6 +124,7 @@ Thanks To: Redditors, Dahlia Fans
 
 def Extra():
     print('''              
+=====================================
 Extras
 =====================================
 Trusted Websites:
