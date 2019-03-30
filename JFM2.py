@@ -168,8 +168,6 @@ Other
 
 13. Build Information
 14. Extras
-15. Update (USING TERMINAL)
-16. Go To JuiceFileManager Homepage
 
 #: '''))
     if dec==1:
