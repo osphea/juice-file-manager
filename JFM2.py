@@ -112,47 +112,57 @@ def Openfile():
 
 def Information():
     print('''
-
-                              Detailed Build Information
+Detailed Build Information
+=====================================
 Made On:GNU/LINUX
-Date Created:30 of september 2017
-Thanks To:Python Fans
+Date Created: 30 september 2017 / 30 march 2019
+Thanks To: Redditors, Dahlia Fans
 ''')
 
 def Extra():
-    print('''                                         Extras
-
+    print('''              
+Extras
+=====================================
 Trusted Websites:GitHub
-Gmail/Email:
+Gmail/Email: camden.o.b@gmail.com
 Team Members:
->Ender_Night_Lord-chromebook (Owner)
+--> Ender_Night_Lord-chromebook (Owner) (Kernel Dev)
+--> Noah Cain / nmcain (UI Dev)
+--> Jon West / electrikjesus (Kernel Dev)
+--> Horus (UI Dev) - (App Dev)
+--> Jazilzaim (Kernel Dev)
 
-Version:2.5
+Version: 2.5.1 REINCARNATION
 ''')
 run=1
 while(run==1):     #Running the program again
     os.system('cls')        #Used to clear the screen after running again the program
-    print('Juice File Manager 2.5')
-    dec=int(input('''1.Read a file
-2.Write in a File
-3.Append text in a File
-4.Delete a file
-5.List Files in a directory
-6.Check file existence
-7.Move a file
-8.Copy a file
-9.Create a Directory
-10.Delete A Directory
-11.Open a program
-12.Exit
-
+    dec=int(input('''
+=======================================
+Juice File Manager 2.5.1
+=======================================
+    
+1.Read a file
+2.  Write in a File
+3.  Append text in a File
+4.  Delete a file
+5.  List Files in a directory
+6.  Check file existence
+7.  Move a file
+8.  Copy a file
+9.  Create a Directory
+10. Delete A Directory
+11. Open a program
+12. Exit
+=======================================
 Other
+=======================================
+13. Build Information
+14. Extras
+15. Update (USING TERMINAL)
+16. Go To JuiceFileManager Homepage
 
-13.Build Information
-14.Extras
-
-Operation Number:
-'''))
+#: '''))
     if dec==1:
         Read()
     if dec==2:
