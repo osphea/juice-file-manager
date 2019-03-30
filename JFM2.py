@@ -142,13 +142,13 @@ Team Members:
 --> Jazilzaim (Kernel Dev)
 
 Version: 
---> 2.5.1 REINCARNATION
+--> 2.5.2 REINCARNATION
 ''')
 run=1
 while(run==1):     #Running the program again
     dec=int(input('''
 =======================================
-Juice File Manager 2.5.1
+Juice File Manager 2.5.2
 =======================================
 1.  Read a file
 2.  Write in a File
