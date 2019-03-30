@@ -148,7 +148,6 @@ while(run==1):     #Running the program again
 =======================================
 Juice File Manager 2.5.1
 =======================================
-    
 1.Read a file
 2.  Write in a File
 3.  Append text in a File
@@ -165,7 +164,6 @@ Juice File Manager 2.5.1
 =======================================
 Other
 =======================================
-
 13. Build Information
 14. Extras
 
